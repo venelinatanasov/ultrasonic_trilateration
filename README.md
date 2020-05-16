@@ -1,10 +1,10 @@
-#Ултразвукова трилатерация
+# Ултразвукова трилатерация
 
 Устройство, състоящо се от предавател и приемник на ултразвуков сигнал. Приемникът установява относителното местоположение на предавателя и го визуализира чрез светодиоди.
 
 #####ще добавя презентация и схема
 
-##Инструкции за сваляне на пректа
+## Инструкции за сваляне на пректа
 
 От Github:
 1) Clone or Download
@@ -13,15 +13,15 @@
 От CLI:
 `git clone https://github.com/venelinatanasov/ultrasonic_trilateration.git`
 
-##Инструкции за инсталация
+## Инструкции за инсталация
 
 Използвайки Arduino IDE, качете transmitter.ino в микроконтролера на предавателя и receiver.ino в микроконтролера на приемника.
 
-##Инструкции за стартиране на проекта
+## Инструкции за стартиране на проекта
 
 При правилно свързана схема работата започва при подаване на 5V захранване.
 
-##Използвани технологии
+## Използвани технологии
 
 Arduino UNO - https://www.arduino.cc/
 
@@ -31,11 +31,11 @@ Arduino UNO - https://www.arduino.cc/
 github: https://github.com/venelinatanasov
 email: venelin.atanasov2@gmail.com
 
-#Ultrasonic trilateration
+# Ultrasonic trilateration
 
 A device consisting of an ultrasonic transmitter and receiver. The receiver calculates the relative position of the transmitter and visualises it using LEDs.
 
-##How to download
+## How to download
 
 From Github:
 1) Clone or Download
@@ -44,18 +44,18 @@ From Github:
 Using CLI:
 `git clone https://github.com/venelinatanasov/ultrasonic_trilateration.git`
 
-##How to install
+## How to install
 
 Using Arduino IDE upload transmitter.ino to the microcontroller in the transmitter and receiver.ino to the one in the receiver.
-#How to start
+# How to start
 
 If connected properly, both the transmitter and receiver start working on power up.
 
-##Technologies used
+## Technologies used
 
 Arduino UNO - https://www.arduino.cc/
 
-##Information about the author
+## Information about the author
 
 Venelin Atanasov - software and hardware.
 github: https://github.com/venelinatanasov
