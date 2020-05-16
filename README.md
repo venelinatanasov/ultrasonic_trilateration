@@ -27,9 +27,9 @@ Arduino UNO - https://www.arduino.cc/
 
 ## Информация за авторите на проекта
 
-Венелин Атанасов - софтуер и хардуер. 
-github: https://github.com/venelinatanasov
-email: venelin.atanasov2@gmail.com
+Венелин Атанасов - софтуер и хардуер.   
+github: https://github.com/venelinatanasov  
+email: venelin.atanasov2@gmail.com  
 
 # Ultrasonic trilateration
 
