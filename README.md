@@ -10,7 +10,7 @@
 1) Clone or Download
 2) Download ZIP
 
-От CLI:
+От CLI:  
 `git clone https://github.com/venelinatanasov/ultrasonic_trilateration.git`
 
 ## Инструкции за инсталация
@@ -41,7 +41,7 @@ From Github:
 1) Clone or Download
 2) Download ZIP
 
-Using CLI:
+Using CLI:  
 `git clone https://github.com/venelinatanasov/ultrasonic_trilateration.git`
 
 ## How to install
@@ -57,9 +57,9 @@ Arduino UNO - https://www.arduino.cc/
 
 ## Information about the author
 
-Venelin Atanasov - software and hardware.
-github: https://github.com/venelinatanasov
-email: venelin.atanasov2@gmail.com
+Venelin Atanasov - software and hardware.  
+github: https://github.com/venelinatanasov  
+email: venelin.atanasov2@gmail.com  
 
 
 
