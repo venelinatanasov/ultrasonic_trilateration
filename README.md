@@ -49,7 +49,7 @@ Using CLI:
 Using Arduino IDE upload transmitter.ino to the microcontroller in the transmitter and receiver.ino to the one in the receiver.
 # How to start
 
-If connected properly, both the transmitter and receiver start working on power up.
+If connected properly, both the transmitter and receiver should start working on power up.
 
 ## Technologies used
 
