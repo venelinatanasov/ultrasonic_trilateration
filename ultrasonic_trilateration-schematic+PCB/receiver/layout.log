@@ -1,0 +1,2334 @@
+Sat May 16 15:38:14 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 15:38:14 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:38:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:38:14 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:38:19 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:38:19 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:38:19 Library file not found:USER.PRT
+Sat May 16 15:38:19 Library file not found:USER.PRT
+Sat May 16 15:38:20 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:38:20 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:40:31 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 15:40:31 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\DATA\_DEFAULT.TCH
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:40:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:40:31 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:40:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:40:34 Library file not found:USER.PRT
+Sat May 16 15:40:34 Library file not found:USER.PRT
+Sat May 16 15:40:34 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\DATA\_DEFAULT.TCH
+Sat May 16 15:40:34 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT\DATA\_DEFAULT.TCH
+Sat May 16 15:44:51 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 15:44:51 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:44:51 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:44:51 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:44:59 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:44:59 Library file not found:USER.PRT
+Sat May 16 15:44:59 Library file not found:USER.PRT
+Sat May 16 15:45:00 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:45:00 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:54:21 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 15:54:21 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:54:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:54:21 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:54:24 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:54:24 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:57:02 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 15:57:02 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 15:57:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 15:57:02 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:57:04 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 15:57:04 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:57:04 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 15:57:04 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 15:57:04 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:00:14 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:00:14 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:00:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:00:14 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:00:16 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:00:16 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:00:16 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:00:16 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:00:16 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:03:27 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:03:27 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:03:27 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:03:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:03:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:03:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:03:28 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:03:28 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:03:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:03:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:03:30 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:03:30 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:05:30 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:05:30 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:05:30 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:05:30 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:05:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:05:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:05:31 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:05:31 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:05:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:05:31 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:05:33 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:05:33 Saved as file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:08:33 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:08:33 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:08:34 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:08:34 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:08:39 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-1.MAX
+Sat May 16 16:10:37 Saved as file ~undo.max
+Sat May 16 16:10:44 Saved as file ~undo.max
+Sat May 16 16:10:59 Saved as file ~undo.max
+Sat May 16 16:11:08 Saved as file ~undo.max
+Sat May 16 16:12:45 Saved as file ~undo.max
+Sat May 16 16:13:50 Saved as file ~undo.max
+Sat May 16 16:14:26 Saved as file ~undo.max
+Sat May 16 16:14:35 Saved as file ~undo.max
+Sat May 16 16:14:59 Saved as file ~undo.max
+Sat May 16 16:15:00 Saved as file ~undo.max
+Sat May 16 16:15:09 Saved as file ~undo.max
+Sat May 16 16:15:10 Saved as file ~undo.max
+Sat May 16 16:19:57 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-1.MAX
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:19:57 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:19:58 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:19:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:20:00 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-2.MAX
+Sat May 16 16:20:00 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-2.MAX
+Sat May 16 16:20:44 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-1.MAX
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:20:44 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:20:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:20:46 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-3.MAX
+Sat May 16 16:20:46 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-3.MAX
+Sat May 16 16:21:28 UserDiv from Layout.INI for AutoECO: 60
+Sat May 16 16:21:28 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat May 16 16:21:28 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:21:28 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Sat May 16 16:21:29 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-4.MAX
+Sat May 16 16:23:04 Saved as file ~undo.max
+Sat May 16 16:23:06 Saved as file ~undo.max
+Sat May 16 16:23:07 Saved as file ~undo.max
+Sat May 16 16:23:08 Saved as file ~undo.max
+Sat May 16 16:23:09 Saved as file ~undo.max
+Sat May 16 16:23:15 Saved as file ~undo.max
+Sat May 16 16:23:16 Saved as file ~undo.max
+Sat May 16 16:23:18 Saved as file ~undo.max
+Sat May 16 16:23:20 Saved as file ~undo.max
+Sat May 16 16:23:21 Saved as file ~undo.max
+Sat May 16 16:23:22 Saved as file ~undo.max
+Sat May 16 16:23:24 Saved as file ~undo.max
+Sat May 16 16:23:29 Saved as file ~undo.max
+Sat May 16 16:23:31 Saved as file ~undo.max
+Sat May 16 16:23:54 Saved as file ~undo.max
+Sat May 16 16:23:56 Saved as file ~undo.max
+Sat May 16 16:23:57 Saved as file ~undo.max
+Sat May 16 16:23:57 Saved as file ~undo.max
+Sat May 16 16:24:07 Saved as file ~undo.max
+Sat May 16 16:24:17 Saved as file ~undo.max
+Sat May 16 16:24:24 Saved as file ~undo.max
+Sat May 16 16:24:29 Saved as file ~undo.max
+Sat May 16 16:24:37 Saved as file ~undo.max
+Sat May 16 16:24:39 Saved as file ~undo.max
+Sat May 16 16:24:52 Saved as file ~undo.max
+Sat May 16 16:25:06 Saved as file ~undo.max
+Sat May 16 16:25:08 Saved as file ~undo.max
+Sat May 16 16:25:10 Saved as file ~undo.max
+Sat May 16 16:25:13 Saved as file ~undo.max
+Sat May 16 16:25:16 Saved as file ~undo.max
+Sat May 16 16:25:17 Saved as file ~undo.max
+Sat May 16 16:25:19 Saved as file ~undo.max
+Sat May 16 16:25:21 Saved as file ~undo.max
+Sat May 16 16:25:26 Saved as file ~undo.max
+Sat May 16 16:25:29 Saved as file ~undo.max
+Sat May 16 16:25:35 Saved as file ~undo.max
+Sat May 16 16:25:36 Saved as file ~undo.max
+Sat May 16 16:25:44 Saved as file ~undo.max
+Sat May 16 16:25:46 Saved as file ~undo.max
+Sat May 16 16:25:47 Saved as file ~undo.max
+Sat May 16 16:25:52 Saved as file ~undo.max
+Sat May 16 16:25:54 Saved as file ~undo.max
+Sat May 16 16:25:54 Saved as file ~undo.max
+Sat May 16 16:25:59 Saved as file ~undo.max
+Sat May 16 16:26:01 Saved as file ~undo.max
+Sat May 16 16:26:09 Saved as file ~undo.max
+Sat May 16 16:26:13 Saved as file ~undo.max
+Sat May 16 16:26:15 Saved as file ~undo.max
+Sat May 16 16:26:28 Saved as file ~undo.max
+Sat May 16 16:26:31 Saved as file ~undo.max
+Sat May 16 16:26:32 Saved as file ~undo.max
+Sat May 16 16:26:33 Saved as file ~undo.max
+Sat May 16 16:26:36 Saved as file ~undo.max
+Sat May 16 16:26:41 Saved as file ~undo.max
+Sat May 16 16:26:43 Saved as file ~undo.max
+Sat May 16 16:26:47 Saved as file ~undo.max
+Sat May 16 16:26:48 Saved as file ~undo.max
+Sat May 16 16:26:50 Saved as file ~undo.max
+Sat May 16 16:26:53 Saved as file ~undo.max
+Sat May 16 16:26:54 Saved as file ~undo.max
+Sat May 16 16:26:56 Saved as file ~undo.max
+Sat May 16 16:27:00 Saved as file ~undo.max
+Sat May 16 16:27:01 Saved as file ~undo.max
+Sat May 16 16:27:03 Saved as file ~undo.max
+Sat May 16 16:27:07 Saved as file ~undo.max
+Sat May 16 16:27:08 Saved as file ~undo.max
+Sat May 16 16:27:09 Saved as file ~undo.max
+Sat May 16 16:27:16 Saved as file ~undo.max
+Sat May 16 16:27:18 Saved as file ~undo.max
+Sat May 16 16:27:18 Saved as file ~undo.max
+Sat May 16 16:27:19 Saved as file ~undo.max
+Sat May 16 16:27:53 Saved as file ~undo.max
+Sat May 16 16:28:09 Saved as file ~undo.max
+Sat May 16 16:28:17 Saved as file ~undo.max
+Sat May 16 16:28:28 Saved as file ~undo.max
+Sat May 16 16:28:35 Saved as file ~undo.max
+Sat May 16 16:28:41 Saved as file ~undo.max
+Sat May 16 16:28:45 Saved as file ~undo.max
+Sat May 16 16:28:47 Saved as file ~undo.max
+Sat May 16 16:28:51 Saved as file ~undo.max
+Sat May 16 16:28:54 Saved as file ~undo.max
+Sat May 16 16:28:55 Saved as file ~undo.max
+Sat May 16 16:28:56 Saved as file ~undo.max
+Sat May 16 16:28:58 Saved as file ~undo.max
+Sat May 16 16:28:58 Saved as file ~undo.max
+Sat May 16 16:29:28 Saved as file ~undo.max
+Sat May 16 16:29:31 Saved as file ~undo.max
+Sat May 16 16:29:33 Saved as file ~undo.max
+Sat May 16 16:29:37 Saved as file ~undo.max
+Sat May 16 16:29:38 Saved as file ~undo.max
+Sat May 16 16:29:39 Saved as file ~undo.max
+Sat May 16 16:29:39 Saved as file ~undo.max
+Sat May 16 16:29:43 Saved as file ~undo.max
+Sat May 16 16:29:45 Saved as file ~undo.max
+Sat May 16 16:30:21 Saved as file ~undo.max
+Sat May 16 16:30:31 Saved as file ~undo.max
+Sat May 16 16:30:39 Saved as file ~undo.max
+Sat May 16 16:30:42 Saved as file ~undo.max
+Sat May 16 16:30:45 Saved as file ~undo.max
+Sat May 16 16:30:47 Saved as file ~undo.max
+Sat May 16 16:30:50 Saved as file ~undo.max
+Sat May 16 16:30:53 Saved as file ~undo.max
+Sat May 16 16:30:56 Saved as file ~undo.max
+Sat May 16 16:31:01 Saved as file ~undo.max
+Sat May 16 16:31:03 Saved as file ~undo.max
+Sat May 16 16:31:12 Saved as file ~undo.max
+Sat May 16 16:31:32 Saved as file BACKUP1.MAX
+Sat May 16 16:31:32 Saved as file ~undo.max
+Sat May 16 16:31:34 Saved as file ~undo.max
+Sat May 16 16:31:34 Saved as file ~undo.max
+Sat May 16 16:31:35 Saved as file ~undo.max
+Sat May 16 16:31:41 Saved as file ~undo.max
+Sat May 16 16:31:44 Saved as file ~undo.max
+Sat May 16 16:31:48 Saved as file ~undo.max
+Sat May 16 16:31:50 Saved as file ~undo.max
+Sat May 16 16:31:51 Saved as file ~undo.max
+Sat May 16 16:32:41 Saved as file ~undo.max
+Sat May 16 16:32:45 Saved as file ~undo.max
+Sat May 16 16:32:51 Saved as file BACKUP1.MAX
+Sat May 16 16:32:51 Saved as file BACKUP1.MAX
+Sat May 16 16:32:51 Saved as file BACKUP1.MAX
+Sat May 16 16:32:51 Saved as file BACKUP1.MAX
+Sat May 16 16:32:51 Saved as file BACKUP1.MAX
+Sat May 16 16:32:51 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Routed 35 connections in 0 seconds.
+Sat May 16 16:32:52 Total is now 35 out of 78 (44%).
+Sat May 16 16:32:52 Saved as file SWEEP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Saved as file BACKUP1.MAX
+Sat May 16 16:32:52 Routed 45 connections in 0 seconds.
+Sat May 16 16:32:52 Total is now 78 out of 78 (100%).
+Sat May 16 16:32:52 Saved as file SWEEP2.MAX
+Sat May 16 16:32:52 No new connections routed.
+Sat May 16 16:32:52 Total is now 78 out of 78 (100%).
+Sat May 16 16:32:52 Saved as file SWEEP3.MAX
+Sat May 16 16:32:52 No new connections routed.
+Sat May 16 16:32:52 Total is now 78 out of 78 (100%).
+Sat May 16 16:32:52 Saved as file SWEEP4.MAX
+Sat May 16 16:32:52 No new connections routed.
+Sat May 16 16:32:52 Total is now 78 out of 78 (100%).
+Sat May 16 16:32:52 Saved as file SWEEP5.MAX
+Sat May 16 16:33:05 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-4.MAX
+Tue May 19 13:25:18 Saved as file ~undo.max
+Tue May 19 13:25:28 Saved as file ~undo.max
+Tue May 19 13:29:26 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-4.MAX
+Tue May 19 13:31:41 Saved as file BACKUP1.MAX
+Tue May 19 13:31:41 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-4.MAX
+Tue May 19 13:31:49 UserDiv from Layout.INI for AutoECO: 60
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-4.MAX
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Tue May 19 13:31:49 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Tue May 19 13:31:49 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Tue May 19 13:31:51 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-5.MAX
+Tue May 19 13:31:51 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-5.MAX
+Tue May 19 13:34:32 Saved as file ~undo.max
+Tue May 19 13:34:32 Saved as file ~undo.max
+Tue May 19 13:34:32 Saved as file ~undo.max
+Tue May 19 13:38:33 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-5.MAX
+Tue May 19 13:42:29 Saved as file BACKUP1.MAX
+Tue May 19 13:42:29 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-5.MAX
+Tue May 19 13:42:35 UserDiv from Layout.INI for AutoECO: 60
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-5.MAX
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Tue May 19 13:42:35 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Tue May 19 13:42:36 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Tue May 19 13:42:36 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Tue May 19 13:42:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Tue May 19 13:42:37 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-6.MAX
+Tue May 19 13:42:37 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-6.MAX
+Tue May 19 13:43:50 Saved as file ~undo.max
+Tue May 19 13:45:24 Saved as file ~undo.max
+Tue May 19 13:46:02 Saved as file ~undo.max
+Tue May 19 13:46:03 Saved as file ~undo.max
+Tue May 19 13:46:03 Saved as file ~undo.max
+Tue May 19 13:46:03 Saved as file ~undo.max
+Tue May 19 13:46:03 Saved as file ~undo.max
+Tue May 19 13:46:03 Saved as file ~undo.max
+Tue May 19 13:46:04 Saved as file ~undo.max
+Tue May 19 13:46:04 Saved as file ~undo.max
+Tue May 19 13:46:04 Saved as file ~undo.max
+Tue May 19 13:46:04 Saved as file ~undo.max
+Tue May 19 13:46:04 Saved as file ~undo.max
+Tue May 19 13:46:04 Saved as file ~undo.max
+Tue May 19 13:46:05 Saved as file ~undo.max
+Tue May 19 13:46:05 Saved as file ~undo.max
+Tue May 19 13:46:40 Saved as file ~undo.max
+Tue May 19 13:46:40 Saved as file ~undo.max
+Tue May 19 13:46:41 Saved as file ~undo.max
+Tue May 19 13:46:50 Saved as file ~undo.max
+Tue May 19 13:46:50 Saved as file ~undo.max
+Tue May 19 13:47:12 Saved as file ~undo.max
+Tue May 19 13:47:13 Saved as file ~undo.max
+Tue May 19 13:47:13 Saved as file ~undo.max
+Tue May 19 13:47:13 Saved as file ~undo.max
+Tue May 19 13:49:59 Saved as file ~undo.max
+Tue May 19 13:50:00 Saved as file ~undo.max
+Tue May 19 13:50:00 Saved as file ~undo.max
+Tue May 19 13:50:00 Saved as file ~undo.max
+Tue May 19 13:50:36 Saved as file ~undo.max
+Tue May 19 13:50:36 Saved as file ~undo.max
+Tue May 19 13:52:57 Saved as file BACKUP1.MAX
+Tue May 19 13:53:21 Saved as file ~undo.max
+Tue May 19 13:53:25 Saved as file ~undo.max
+Tue May 19 13:53:26 Saved as file ~undo.max
+Tue May 19 13:53:31 Saved as file ~undo.max
+Tue May 19 13:55:04 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-6.MAX
+Tue May 19 13:57:08 Saved as file ~undo.max
+Tue May 19 13:57:08 Saved as file ~undo.max
+Tue May 19 13:57:09 Saved as file ~undo.max
+Tue May 19 13:57:09 Saved as file ~undo.max
+Tue May 19 13:57:09 Saved as file ~undo.max
+Tue May 19 13:57:09 Saved as file ~undo.max
+Tue May 19 13:57:09 Saved as file ~undo.max
+Tue May 19 13:57:43 Saved as file ~undo.max
+Tue May 19 13:57:51 Saved as file ~undo.max
+Tue May 19 13:57:58 Saved as file ~undo.max
+Tue May 19 13:58:05 Saved as file ~undo.max
+Tue May 19 13:58:06 Saved as file ~undo.max
+Tue May 19 13:58:06 Saved as file ~undo.max
+Tue May 19 13:58:07 Saved as file ~undo.max
+Tue May 19 13:58:07 Saved as file ~undo.max
+Tue May 19 13:58:07 Saved as file ~undo.max
+Tue May 19 13:58:07 Saved as file ~undo.max
+Tue May 19 13:58:07 Saved as file ~undo.max
+Tue May 19 13:58:07 Saved as file ~undo.max
+Tue May 19 13:58:08 Saved as file ~undo.max
+Tue May 19 13:58:08 Saved as file ~undo.max
+Tue May 19 13:58:08 Saved as file ~undo.max
+Tue May 19 13:58:09 Saved as file ~undo.max
+Tue May 19 13:58:09 Saved as file ~undo.max
+Tue May 19 13:58:23 Saved as file ~undo.max
+Tue May 19 13:59:02 Saved as file ~undo.max
+Tue May 19 13:59:33 Saved as file ~undo.max
+Tue May 19 13:59:43 Saved as file ~undo.max
+Tue May 19 13:59:43 Saved as file ~undo.max
+Tue May 19 14:00:00 Saved as file ~undo.max
+Tue May 19 14:01:02 Saved as file ~undo.max
+Tue May 19 14:02:58 Saved as file ~undo.max
+Tue May 19 14:03:09 Saved as file ~undo.max
+Tue May 19 14:03:10 Saved as file ~undo.max
+Tue May 19 14:03:21 Saved as file ~undo.max
+Tue May 19 14:03:22 Saved as file ~undo.max
+Tue May 19 14:03:27 Saved as file BACKUP1.MAX
+Tue May 19 14:03:28 Saved as file ~undo.max
+Tue May 19 14:03:29 Saved as file ~undo.max
+Tue May 19 14:03:29 Saved as file ~undo.max
+Tue May 19 14:03:29 Saved as file ~undo.max
+Tue May 19 14:03:41 Saved as file ~undo.max
+Tue May 19 14:03:42 Saved as file ~undo.max
+Tue May 19 14:03:55 Saved as file ~undo.max
+Tue May 19 14:04:24 Saved as file ~undo.max
+Tue May 19 14:04:25 Saved as file ~undo.max
+Tue May 19 14:04:25 Saved as file ~undo.max
+Tue May 19 14:04:43 Saved as file ~undo.max
+Tue May 19 14:04:43 Saved as file ~undo.max
+Tue May 19 14:05:07 Saved as file ~undo.max
+Tue May 19 14:06:19 Saved as file ~undo.max
+Tue May 19 14:06:20 Saved as file ~undo.max
+Tue May 19 14:06:20 Saved as file ~undo.max
+Tue May 19 14:06:20 Saved as file ~undo.max
+Tue May 19 14:06:20 Saved as file ~undo.max
+Tue May 19 14:06:21 Saved as file ~undo.max
+Tue May 19 14:06:21 Saved as file ~undo.max
+Tue May 19 14:06:21 Saved as file ~undo.max
+Tue May 19 14:06:21 Saved as file ~undo.max
+Tue May 19 14:06:21 Saved as file ~undo.max
+Tue May 19 14:06:22 Saved as file ~undo.max
+Tue May 19 14:06:38 Saved as file ~undo.max
+Tue May 19 14:06:39 Saved as file ~undo.max
+Tue May 19 14:06:39 Saved as file ~undo.max
+Tue May 19 14:06:39 Saved as file ~undo.max
+Tue May 19 14:06:39 Saved as file ~undo.max
+Tue May 19 14:06:40 Saved as file ~undo.max
+Tue May 19 14:06:40 Saved as file ~undo.max
+Tue May 19 14:06:40 Saved as file ~undo.max
+Tue May 19 14:07:34 Saved as file ~undo.max
+Tue May 19 14:07:34 Saved as file ~undo.max
+Tue May 19 14:07:35 Saved as file ~undo.max
+Tue May 19 14:07:52 Saved as file ~undo.max
+Tue May 19 14:07:53 Saved as file ~undo.max
+Tue May 19 14:07:53 Saved as file ~undo.max
+Tue May 19 14:07:53 Saved as file ~undo.max
+Tue May 19 14:08:21 Saved as file ~undo.max
+Tue May 19 14:08:21 Saved as file ~undo.max
+Tue May 19 14:08:21 Saved as file ~undo.max
+Tue May 19 14:08:21 Saved as file ~undo.max
+Tue May 19 14:08:22 Saved as file ~undo.max
+Tue May 19 14:08:22 Saved as file ~undo.max
+Tue May 19 14:08:22 Saved as file ~undo.max
+Tue May 19 14:08:22 Saved as file ~undo.max
+Tue May 19 14:08:22 Saved as file ~undo.max
+Tue May 19 14:08:22 Saved as file ~undo.max
+Tue May 19 14:08:23 Saved as file ~undo.max
+Tue May 19 14:08:23 Saved as file ~undo.max
+Tue May 19 14:08:23 Saved as file ~undo.max
+Tue May 19 14:08:23 Saved as file ~undo.max
+Tue May 19 14:08:23 Saved as file ~undo.max
+Tue May 19 14:08:40 Saved as file ~undo.max
+Tue May 19 14:08:41 Saved as file ~undo.max
+Tue May 19 14:08:41 Saved as file ~undo.max
+Tue May 19 14:08:41 Saved as file ~undo.max
+Tue May 19 14:10:45 Saved as file ~undo.max
+Tue May 19 14:10:45 Saved as file ~undo.max
+Tue May 19 14:10:45 Saved as file ~undo.max
+Tue May 19 14:10:46 Saved as file ~undo.max
+Tue May 19 14:10:46 Saved as file ~undo.max
+Tue May 19 14:10:46 Saved as file ~undo.max
+Tue May 19 14:12:30 Saved as file ~undo.max
+Tue May 19 14:13:58 Saved as file BACKUP1.MAX
+Tue May 19 14:16:34 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-6.MAX
+Tue May 19 14:17:08 Saved as file BACKUP1.MAX
+Tue May 19 14:17:08 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-6.MAX
+Tue May 19 14:17:17 UserDiv from Layout.INI for AutoECO: 60
+Tue May 19 14:17:17 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-6.MAX
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Tue May 19 14:17:18 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Tue May 19 14:17:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Tue May 19 14:17:22 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:17:22 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:17:25 Saved as file ~undo.max
+Tue May 19 14:17:26 Saved as file ~undo.max
+Tue May 19 14:17:26 Saved as file ~undo.max
+Tue May 19 14:17:26 Saved as file ~undo.max
+Tue May 19 14:17:26 Saved as file ~undo.max
+Tue May 19 14:17:26 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:27 Saved as file ~undo.max
+Tue May 19 14:17:31 Saved as file ~undo.max
+Tue May 19 14:17:35 Saved as file ~undo.max
+Tue May 19 14:17:55 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:17:56 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:18:36 Saved as file BACKUP1.MAX
+Tue May 19 14:18:36 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:18:41 UserDiv from Layout.INI for AutoECO: 60
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Tue May 19 14:18:41 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Tue May 19 14:18:41 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Tue May 19 14:18:41 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Tue May 19 14:18:42 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Tue May 19 14:18:46 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-8.MAX
+Tue May 19 14:18:46 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-8.MAX
+Tue May 19 14:18:48 Saved as file ~undo.max
+Tue May 19 14:18:48 Saved as file ~undo.max
+Tue May 19 14:18:48 Saved as file ~undo.max
+Tue May 19 14:18:48 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:49 Saved as file ~undo.max
+Tue May 19 14:18:50 Saved as file ~undo.max
+Tue May 19 14:18:50 Saved as file ~undo.max
+Tue May 19 14:18:50 Saved as file ~undo.max
+Tue May 19 14:18:50 Saved as file ~undo.max
+Tue May 19 14:18:50 Saved as file ~undo.max
+Tue May 19 14:18:51 Saved as file ~undo.max
+Tue May 19 14:20:06 Saved as file BACKUP1.MAX
+Tue May 19 14:20:06 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:20:32 UserDiv from Layout.INI for AutoECO: 60
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-7.MAX
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\ARDUINO.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_ASS.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\CAP_RAD.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_COAX.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DIN.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_DSUB.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\CONN_STRIP.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\DEVICE.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIODE.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\DIP.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\INDUTTORI.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\MORSETTIERE.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\OPTOELETTRONICA.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\PLCCNEW.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\PQFP.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\QUARZI.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\RELAYNEW.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\RESIST.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET01.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET02.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET03.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET04.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET05.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET06.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET08.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET09.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET10.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET11.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET12.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET13.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET14.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET15.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET16.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET17.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET18.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET19.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET20.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET21.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET22.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET23.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET24.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET25.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET26.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET27.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET28.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET29.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET30.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET31.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET32.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET33.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SHEET34.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SMD.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\SWITCH.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\TONEW.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRANSFORMER.LLB
+Tue May 19 14:20:32 Loaded file C:\USERS\VENELIN\DOCUMENTS\TRIMMER.LLB
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Tue May 19 14:20:32 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Tue May 19 14:20:34 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-9.MAX
+Tue May 19 14:20:34 Loaded file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-9.MAX
+Tue May 19 14:20:52 Saved as file C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER-9.MAX

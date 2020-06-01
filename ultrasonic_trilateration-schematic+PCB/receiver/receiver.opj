@@ -1,0 +1,116 @@
+(ExpressProject "receiver"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\libraries\arduino.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\receiver.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "1")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "TRUE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Visible_Power_pins "TRUE")
+    (DRC_Report_Netnames "TRUE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\RECEIVER.DRC")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "RECEIVER.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "0")
+    (FALSE)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (FALSE)
+    (FALSE))
+  (Folder "Outputs"
+    (File ".\receiver.drc"
+      (Type "Report"))
+    (File ".\receiver.mnl"
+      (Type "LAYOUT Netlist File")))
+  (Folder "Referenced Projects")
+  (LastUsedLibraryBrowseDirectory "C:\OrCAD\OrCAD_10.5\tools\capture\library")
+  (PartMRUSelector
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("Arduino Uno R3"
+      (FullPartName "Arduino Uno R3.Normal")
+      (LibraryName
+         "C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\LIBRARIES\ARDUINO.OLB")
+      (DeviceIndex "0"))
+    (L14Q1
+      (FullPartName "L14Q1.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
+    (74HC595
+      (FullPartName "74HC595.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_10.5\TOOLS\CAPTURE\LIBRARY\PSPICE\74HC.OLB")
+      (DeviceIndex "0"))
+    (HC-SR04
+      (FullPartName "HC-SR04.Normal")
+      (LibraryName
+         "C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\HC-SR04.OLB")
+      (DeviceIndex "0"))
+    (A000066
+      (FullPartName "A000066-1.Normal")
+      (LibraryName
+         "C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\RECEIVER\A000066.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "C:\Users\venelin\Desktop\ultrasonic_trilateration\receiver\receiver.dsn")
+      (Path "Design Resources"
+         "C:\Users\venelin\Desktop\ultrasonic_trilateration\receiver\receiver.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "C:\Users\venelin\Desktop\ultrasonic_trilateration\receiver\receiver.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 607"))
+      (Tab 0)))
+  (MPSSessionName "venelin"))

@@ -1,0 +1,115 @@
+
+Checking Pins and Pin Connections
+
+--------------------------------------------------
+Checking Schematic: SCHEMATIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking for Unconnected Nets
+WARNING:  [DRC0006]  Net has fewer than two connections GND_1
+                    SCHEMATIC1, PAGE1  (5.00, 3.40) 
+WARNING:  [DRC0006]  Net has fewer than two connections GND_2
+                    SCHEMATIC1, PAGE1  (5.00, 3.50) 
+WARNING:  [DRC0006]  Net has fewer than two connections 3V3
+                    SCHEMATIC1, PAGE1  (5.00, 3.20) 
+
+Checking Off-Page Connections
+
+Checking Pin to Port Connections
+
+Checking for Invalid References
+
+Checking for Duplicate References
+
+Reporting Off-Grid Objects
+
+Reporting Ports
+
+Reporting Off-Page Connections
+
+Reporting Globals
+    VCC
+    VIN
+    GND
+    GND_1
+    3V3
+    GND_2
+    5V
+
+Reporting Net Names
+    N07457
+    N09994
+    N10252
+    N10518
+    N10792
+    N10934
+    N11222
+    GND
+    5V
+WARNING:  [DRC0037]  Net has two or more aliases - possible short? 5V
+                    SCHEMATIC1, PAGE1  (2.80, 0.50) 
+    Alternate Name:  VCC
+    Alternate Name:  VIN
+    N11518
+    N01648
+    N01681
+    N01716
+    N01753
+    N01792
+    N01833
+    N01876
+    N11822
+    N01921
+    N01968
+    N02017
+    N02068
+    N02121
+    N02176
+    N02233
+    N02292
+    N02394
+    N04028
+    N14936
+    N05048
+    N15373
+    N05613
+    N05767
+    N15821
+    N05929
+    N06099
+    N16157
+    N16501
+    N16853
+    N17213
+    N07772
+    N17762
+    N07992
+    GND_1
+    GND_2
+    3V3
+    N08787
+
+Checking Visible Unconnected Power Pins
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U2,VCC
+                    SCHEMATIC1, PAGE1  (7.90, 5.20) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U2,GND
+                    SCHEMATIC1, PAGE1  (7.90, 5.50) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets A1,3V3
+                    SCHEMATIC1, PAGE1  (5.00, 3.20) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets A1,5V
+                    SCHEMATIC1, PAGE1  (5.00, 3.30) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets A1,GND_2
+                    SCHEMATIC1, PAGE1  (5.00, 3.50) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets A1,GND_1
+                    SCHEMATIC1, PAGE1  (5.00, 3.40) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets A1,VIN
+                    SCHEMATIC1, PAGE1  (5.00, 3.60) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U1,VCC
+                    SCHEMATIC1, PAGE1  (7.90, 0.60) 
+WARNING:  [DRC0038]  Visible unconnected Power Pins are connected to global nets U1,GND
+                    SCHEMATIC1, PAGE1  (7.90, 0.90) 
+
+Checking Misleading Tap connection
+
+Check Bus width mismatch

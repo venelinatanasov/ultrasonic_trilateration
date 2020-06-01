@@ -1,0 +1,31 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+FILE-B: C:\USERS\VENELIN\DESKTOP\ULTRASONIC_TRILATERATION\TRANSMITTER\TRANSMITTER.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint PHOTOTR
+Adding footprint SIP/TM/L.400/4
+Adding footprint TO92
+Adding footprint AX/RC05
+Adding footprint ARDUINO UNO R3
+Adding package LED
+Adding package HC-SR04
+Adding package BC547A
+Adding package R
+Adding package ARDUINO_UNO_R3_2
+Adding component D2
+Adding component U1
+Adding component Q2
+Adding component R1
+Adding component Q1
+Adding component U2
+Adding component D1
+Adding net GND
+Adding net N00564
+Adding net N00583
+Adding net N00604
+Adding net 5V
+Adding net N01080
+Adding net N00865
+Deleting net DEFAULT
+*EOF*
+No errors found
